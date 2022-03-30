@@ -19,3 +19,4 @@ This is toyproject using django
 </ul>
   
   
+<h1>caution: settings.py should be amended before using this program</h1>
